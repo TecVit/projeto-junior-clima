@@ -1,0 +1,11 @@
+.aviso {
+  max-width: 600px;
+  margin: 80px auto;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+.aviso h1 {
+  margin-bottom: 16px;
+}
