@@ -6,7 +6,7 @@ App em React + Vite com um formulário de opinião sobre o calor em Araraquara. 
 
 Dupla: Custódio e Figueredo
 
-Link do app: (colocar o link do Netlify)
+Link do app: [(colocar o link do Netlify)](https://arqiweb2-clima-custodio-e-figueredo.netlify.app/)
 
 ## Como rodar
 
